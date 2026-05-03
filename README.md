@@ -266,3 +266,17 @@ This project was developed as a term project for **CSE 328 – Internet of Thing
 **Ozan Ergüleç**  
 Student No: 20210808069  
 Akdeniz University – Computer Science Engineering
+
+---
+
+## 📊 Dashboard
+
+![Dashboard Overview](IOT-PROJE/görseller/Dashboard-1.png)
+
+![Dashboard Detail](IOT-PROJE/görseller/Dashboard-2.png)
+
+---
+
+## 📸 Evidence
+
+![Project Evidence](IOT-PROJE/görseller/Evidence.jpeg)
