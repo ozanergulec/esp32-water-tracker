@@ -1,0 +1,8 @@
+# Yerel gizli bilgiler
+IOT-PROJE/secrets.h
+
+# Arduino derleme ciktilari
+build/
+*.hex
+*.bin
+*.elf
